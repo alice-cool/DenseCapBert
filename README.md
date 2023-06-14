@@ -6,3 +6,5 @@ utilized.
 We propose to extract dense captions from images to enhance the visual
 information for reasoning and utilize them to release the gap
 between vision and language.
+
+Our code will be available sooner.
